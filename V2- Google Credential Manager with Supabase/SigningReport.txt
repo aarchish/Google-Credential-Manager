@@ -1,0 +1,24 @@
+Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\aarch\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 68:8B:41:12:7C:7B:F2:3A:2C:56:05:8F:0F:D8:71:56
+SHA1: B2:4C:67:70:AC:E6:73:6A:A4:93:A8:C5:21:AC:C0:00:D0:1F:EF:35
+SHA-256: E9:23:22:54:1E:D1:B8:7C:7D:F3:B1:5C:B1:FB:A5:A4:E2:95:2A:F4:D0:FA:EA:21:80:C6:6B:78:56:0A:19:DA
+Valid until: Friday, 22 May, 2054
+----------
+Variant: release
+Config: null
+Store: null
+Alias: null
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\aarch\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 68:8B:41:12:7C:7B:F2:3A:2C:56:05:8F:0F:D8:71:56
+SHA1: B2:4C:67:70:AC:E6:73:6A:A4:93:A8:C5:21:AC:C0:00:D0:1F:EF:35
+SHA-256: E9:23:22:54:1E:D1:B8:7C:7D:F3:B1:5C:B1:FB:A5:A4:E2:95:2A:F4:D0:FA:EA:21:80:C6:6B:78:56:0A:19:DA
+Valid until: Friday, 22 May, 2054
+----------

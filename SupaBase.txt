@@ -1,0 +1,3 @@
+Postgres DB Password : Rugz8tDSUQMGqHsd
+Project URL : https://imoavyuiiyaldrtqdbhq.supabase.co
+ANON Key : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imltb2F2eXVpaXlhbGRydHFkYmhxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjUyODY3ODIsImV4cCI6MjA0MDg2Mjc4Mn0.TF7oN71grqWP0r69nRRV-b5PcNl-UezB4rgtndNYpY4
